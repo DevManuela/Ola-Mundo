@@ -10,6 +10,8 @@ dir: comando utilizado para verificar conteúdo de pasta/diretório
 
 git clone + (link do repositório no github): comando para clonar o repositório do github para a pasta ativa.
 
+git status: mostra o status atual do projeto.
 
+git add . : comando utilizado para adicionar todas as alterações do projeto.
 
-
+git fetch: usado para sincronizar todas branchs
