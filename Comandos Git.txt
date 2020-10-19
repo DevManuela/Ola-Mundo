@@ -1,0 +1,15 @@
+Comandos do Git
+
+cd + (pasta que quero abrir): Esse comando é utilizado para abrir pastas/diretórios. É um comando básico de terminal e também do git (que é baseado nos comandos de terminal)
+
+OBS: Pesquisar os comandos básicos do terminal do sistema operacional.
+
+mkdir + (nome da pasta que quero criar): comando utilizado para criação de pasta
+
+dir: comando utilizado para verificar conteúdo de pasta/diretório
+
+git clone + (link do repositório no github): comando para clonar o repositório do github para a pasta ativa.
+
+
+
+
